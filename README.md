@@ -1,4 +1,4 @@
-# Self-Supervised GANs vis Auxiliary Loss and Learning Rate Decay
+# Self-Supervised GANs via Auxiliary Loss and Learning Rate Decay
 # SSGAN-LD-EE
 
 
